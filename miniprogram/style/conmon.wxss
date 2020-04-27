@@ -1,0 +1,8 @@
+
+
+.boxslod{
+  border: 1px solid #F00;
+  width: 375rpx;
+  height: 375rpx;
+  object-fit: cover
+}
