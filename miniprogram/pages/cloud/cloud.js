@@ -15,7 +15,6 @@ Page({
       { name: 'BRA', value: '巴西' },
       { name: 'JPN', value: '日本' },
       { name: 'ENG', value: '英国' },
-      
     ],
     
     imgages:[]
