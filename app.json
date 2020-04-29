@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/base/base",
+    "pages/cloud/cloud"
+  ],
+  "window": {
+    "backgroundColor": "#000",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "小程序",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#F00",
+    "list": [{
+      "pagePath": "pages/base/base",
+      "text": "基础",
+      "iconPath": "images/defethome.png",
+      "selectedIconPath": "images/selecthome.png"
+    },
+    {
+      "pagePath": "pages/cloud/cloud",
+      "text": "云开发",
+      "iconPath": "images/defetyue.png",
+      "selectedIconPath": "images/selectyue.png"
+    }
+    ]
+  }
+}
